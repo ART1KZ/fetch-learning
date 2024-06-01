@@ -1,0 +1,39 @@
+{
+  "jokes": [
+    {
+      "id": "1",
+      "setup": "Who is Santa's favorite singer?",
+      "punchLine": "Elf-is Presley!"
+    },
+    {
+      "id": "2",
+      "setup": "What do Santa's little helpers learn at school?",
+      "punchLine": "The elf-abet!"
+    },
+    {
+      "id": "3",
+      "setup": "Where do elves go to dance?",
+      "punchLine": "Christmas Balls!"
+    },
+    {
+      "id": "4",
+      "setup": "Which of Santa’s reindeers have to mind their manners most?",
+      "punchLine": "Rude-olph!"
+    },
+    {
+      "id": "5",
+      "setup": "Why did the turkey join the band?",
+      "punchLine": "Because it had the drumsticks!"
+    },
+    {
+      "id": "6",
+      "setup": "How do snowmen get around?",
+      "punchLine": "They ride an icicle"
+    },
+    {
+      "id": "7",
+      "setup": "What do you call a bankrupt Santa?",
+      "punchLine": "Saint Nickel-less!"
+    }
+  ]
+}
